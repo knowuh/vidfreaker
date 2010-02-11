@@ -1,0 +1,13 @@
+
+This is an old old old project. A few folks have asked for it to be reincarnated for snowleopard.
+
+It took me a while to wipe all the dust off, and put an MIT license on it.
+
+It seems to work on 10.6 now.
+
+I basically checked in the entire xcode directory, only ignoring the build directories.
+
+There are better practices for sharing xcode
+projects on github I am sure, so please let me know.
+
+
